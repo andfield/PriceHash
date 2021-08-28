@@ -4,6 +4,12 @@
     "cheerio": "^1.0.0-rc.10",
     "express": "^4.17.1",
     "lodash": "^4.17.21",
-    "morgan": "^1.10.0"
-  }
+    "morgan": "^1.10.0",
+    "node-cron": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+    "type": "module"
+  
 }
